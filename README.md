@@ -1,8 +1,6 @@
-# AC (Aprendizagem Computacional, @FEUP) 
+# WNBA Playoff Predictor (Aprendizagem Computacional, @FEUP) 
 
 WNBA Playoff Predictor project resorting to Machine Learning.
-
-# WNBA Playoff Predictor
 
 ## Project Overview
 Welcome to our WNBA Playoff Predictor project! We undertook this project with a focus on analyzing WNBA data to develop a model capable of predicting playoff contenders for upcoming seasons.
