@@ -19,6 +19,3 @@ To get started with our project:
 - [Teammate 1](https://github.com/teammate1)
 - [Teammate 2](https://github.com/teammate2)
 - [Teammate 3](https://github.com/teammate3)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
