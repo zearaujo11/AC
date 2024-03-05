@@ -15,7 +15,6 @@ To get started with our project:
 3. Open the Jupyter Notebooks to observe the developed work and analysis.
 
 ## Meet the Team
-- [Your Name](https://github.com/yourusername)
-- [Teammate 1](https://github.com/teammate1)
-- [Teammate 2](https://github.com/teammate2)
-- [Teammate 3](https://github.com/teammate3)
+- [Anete Pereira](https://github.com/anetep)
+- [Hugo Castro](https://github.com/hugocastro28)
+- [José Araújo](https://github.com/zearaujo11)
