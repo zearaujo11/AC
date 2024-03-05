@@ -1,5 +1,7 @@
 # AC (Aprendizagem Computacional, @FEUP) 
 
+WNBA Playoff Predictor project resorting to Machine Learning.
+
 # WNBA Playoff Predictor
 
 ## Project Overview
@@ -18,3 +20,6 @@ To get started with our project:
 - [Anete Pereira](https://github.com/anetep)
 - [Hugo Castro](https://github.com/hugocastro28)
 - [José Araújo](https://github.com/zearaujo11)
+
+## Project Grade 
+18.7
